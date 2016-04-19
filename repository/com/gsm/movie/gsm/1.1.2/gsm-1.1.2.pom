@@ -55,7 +55,7 @@
       <version>2.0.0</version>
       <exclusions>
         <exclusion>
-          <artifactId>asm</artifactId>
+          <artifactId>json-smart</artifactId>
           <groupId>net.minidev</groupId>
         </exclusion>
       </exclusions>
