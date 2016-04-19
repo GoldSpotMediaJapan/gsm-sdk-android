@@ -25,56 +25,9 @@
       <version>23.0.0</version>
     </dependency>
     <dependency>
-      <groupId>com.google.android.gms</groupId>
-      <artifactId>play-services-base</artifactId>
-      <version>8.4.0</version>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>support-annotations</artifactId>
       <version>23.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.directory.studio</groupId>
-      <artifactId>org.dom4j.dom4j</artifactId>
-      <version>1.6.1</version>
-    </dependency>
-    <dependency>
-      <groupId>asm</groupId>
-      <artifactId>asm</artifactId>
-      <version>3.3.1</version>
-    </dependency>
-    <dependency>
-      <groupId>jaxen</groupId>
-      <artifactId>jaxen</artifactId>
-      <version>1.1.6</version>
-    </dependency>
-    <dependency>
-      <groupId>com.jayway.jsonpath</groupId>
-      <artifactId>json-path</artifactId>
-      <version>2.0.0</version>
-      <exclusions>
-        <exclusion>
-          <artifactId>json-smart</artifactId>
-          <groupId>net.minidev</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>net.minidev</groupId>
-      <artifactId>json-smart</artifactId>
-      <version>2.1.1</version>
-      <exclusions>
-        <exclusion>
-          <artifactId>asm</artifactId>
-          <groupId>net.minidev</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>slf4j-api</artifactId>
-      <version>1.7.10</version>
     </dependency>
   </dependencies>
 </project>
