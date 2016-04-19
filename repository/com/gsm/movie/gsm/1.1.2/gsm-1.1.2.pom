@@ -56,7 +56,7 @@
       <exclusions>
         <exclusion>
           <artifactId>asm</artifactId>
-          <groupId>asm</groupId>
+          <groupId>net.minidev</groupId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -67,7 +67,7 @@
       <exclusions>
         <exclusion>
           <artifactId>asm</artifactId>
-          <groupId>asm</groupId>
+          <groupId>net.minidev</groupId>
         </exclusion>
       </exclusions>
     </dependency>
